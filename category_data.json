@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "category":"Mobiles"
+    },
+
+
+    {
+        "id":2,
+        "category":"fashion"
+    },
+
+
+    {
+        "id":3,
+        "category":"computer Accessories"
+    },
+
+
+    {
+        "id":4,
+        "category":"Home_Appliances"
+    },
+
+    {
+        "id":5,
+        "category":"grocceries"
+    },
+
+
+    {
+        "id":6,
+        "category":"Toys & games"
+    },
+
+
+    {
+        "id":7,
+        "category":"electronics"
+    },
+
+    {
+        "id":8,
+        "category":"Home & kitchen"
+    }
+
+]
